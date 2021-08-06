@@ -1,0 +1,12 @@
+/Users/william/Desktop/Projects/Dojo_Assignments/c#/assignments/Collections/bin/Debug/netcoreapp3.1/Collections.deps.json
+/Users/william/Desktop/Projects/Dojo_Assignments/c#/assignments/Collections/bin/Debug/netcoreapp3.1/Collections.runtimeconfig.json
+/Users/william/Desktop/Projects/Dojo_Assignments/c#/assignments/Collections/bin/Debug/netcoreapp3.1/Collections.runtimeconfig.dev.json
+/Users/william/Desktop/Projects/Dojo_Assignments/c#/assignments/Collections/bin/Debug/netcoreapp3.1/Collections.dll
+/Users/william/Desktop/Projects/Dojo_Assignments/c#/assignments/Collections/bin/Debug/netcoreapp3.1/Collections.pdb
+/Users/william/Desktop/Projects/Dojo_Assignments/c#/assignments/Collections/obj/Debug/netcoreapp3.1/Collections.csprojAssemblyReference.cache
+/Users/william/Desktop/Projects/Dojo_Assignments/c#/assignments/Collections/obj/Debug/netcoreapp3.1/Collections.AssemblyInfoInputs.cache
+/Users/william/Desktop/Projects/Dojo_Assignments/c#/assignments/Collections/obj/Debug/netcoreapp3.1/Collections.AssemblyInfo.cs
+/Users/william/Desktop/Projects/Dojo_Assignments/c#/assignments/Collections/obj/Debug/netcoreapp3.1/Collections.csproj.CoreCompileInputs.cache
+/Users/william/Desktop/Projects/Dojo_Assignments/c#/assignments/Collections/obj/Debug/netcoreapp3.1/Collections.dll
+/Users/william/Desktop/Projects/Dojo_Assignments/c#/assignments/Collections/obj/Debug/netcoreapp3.1/Collections.pdb
+/Users/william/Desktop/Projects/Dojo_Assignments/c#/assignments/Collections/obj/Debug/netcoreapp3.1/Collections.genruntimeconfig.cache
